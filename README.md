@@ -1,11 +1,11 @@
-# 🚀 Four.meme Bundler — BNB & BSC MEV-Protected Bundling System
+# Four.meme Bundler — BNB & BSC MEV-Protected Bundling System
 
 **Four.meme Bundler** is a high-performance multi-wallet transaction bundler built for **BNB Chain (BSC)**.  
 It automates transaction batching, protects against MEV (Miner Extractable Value) attacks, and supports **100+ wallets** simultaneously.
 
 ---
 
-## 🔥 Features
+## Features
 
 - ⚡ **Multi-Wallet Bundling** — bundle and broadcast transactions from up to **100 wallets** at once  
 - 🛡️ **Auto MEV Protection** — protects your swaps and bundling strategies from frontrunning and sandwich attacks  
@@ -16,7 +16,7 @@ It automates transaction batching, protects against MEV (Miner Extractable Value
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Component | Description |
 |------------|-------------|
@@ -28,7 +28,7 @@ It automates transaction batching, protects against MEV (Miner Extractable Value
 
 ---
 
-## 🧪 Usage
+## Usage
 
 ```bash
 git clone https://github.com/0xSabonis/fourmeme-bundler-bot
@@ -49,7 +49,7 @@ BUNDLER_MODE=auto
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. **Loads 100 wallet private keys** (locally or via encrypted file)  
 2. **Monitors mempool** for target contracts or tokens  
@@ -59,7 +59,7 @@ BUNDLER_MODE=auto
 
 ---
 
-## 🔒 MEV Protection
+## MEV Protection
 
 Four.meme Bundler integrates **auto MEV shielding** to prevent common attack vectors:
 - Frontrunning (bots copying your TX)
@@ -72,7 +72,7 @@ Bundles are submitted via **private endpoints** like Flashbots or BSC equivalent
 
 ---
 
-## ⚡ Performance
+## Performance
 
 | Metric | Result |
 |--------|---------|
@@ -83,7 +83,7 @@ Bundles are submitted via **private endpoints** like Flashbots or BSC equivalent
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
-🔗 Twitter: [@0xSabonis](https://twitter.com/0xSabonis)  
+ Twitter: [@0xSabonis](https://twitter.com/0xSabonis)  
 
