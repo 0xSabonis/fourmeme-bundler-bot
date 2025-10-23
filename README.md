@@ -72,8 +72,6 @@ Bundles are submitted via **private endpoints** like Flashbots or BSC equivalent
 
 ---
 
-## Performance
-|--------|---------|
 
 ## Author
 
