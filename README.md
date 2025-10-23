@@ -55,7 +55,7 @@ BUNDLER_MODE=auto
 2. **Monitors mempool** for target contracts or tokens  
 3. **Bundles transactions** into a single optimized batch  
 4. **Applies MEV protection** using private relay endpoints  
-5. **Executes & confirms** transactions with real-time status tracking  
+5. **Executes & confirms** transactions with real time status tracking  
 
 ---
 
