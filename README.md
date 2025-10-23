@@ -44,7 +44,6 @@ RPC_URL=https://bsc-dataseed.binance.org
 WALLET_KEYS=
 MAX_WALLETS=100
 MEV_PROTECTION=true
-BUNDLER_MODE=auto
 ```
 
 ---
