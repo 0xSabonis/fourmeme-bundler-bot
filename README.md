@@ -79,8 +79,6 @@ Bundles are submitted via **private endpoints** like Flashbots or BSC equivalent
 | Bundling Speed | ~2.3s average |
 | Wallets Supported | 100 |
 | MEV Shield Accuracy | 99.4% |
-| Network | BNB Chain (BSC) |
-
 ---
 
 ## Author
