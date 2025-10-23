@@ -74,8 +74,7 @@ Bundles are submitted via **private endpoints** like Flashbots or BSC equivalent
 
 ## Performance
 |--------|---------|
-| Wallets Supported | 100 |
-| MEV Shield Accuracy | 99.4% |
+| Wallets Supported | 100 |\
 ---
 
 ## Author
