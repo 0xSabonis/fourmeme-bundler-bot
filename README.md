@@ -22,7 +22,7 @@ It automates transaction batching, protects against MEV (Miner Extractable Value
 |------------|-------------|
 | **Language** | Node.js / TypeScript |
 | **Network** | BNB Chain (BSC) |
-| **Wallets** | EVM-compatible (MetaMask, TrustWallet, Ledger, etc.) |
+| **Wallets** | EVM-compatible (MetaMask, TrustWallet, etc.) |
 | **Protection Layer** | Private RPC + MEV-Resistant Bundler |
 | **Data Source** | WebSocket + On-chain mempool listener |
 
