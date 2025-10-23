@@ -74,8 +74,6 @@ Bundles are submitted via **private endpoints** like Flashbots or BSC equivalent
 
 ## Performance
 |--------|---------|
-| Wallets Supported | 100 |\
----
 
 ## Author
 
