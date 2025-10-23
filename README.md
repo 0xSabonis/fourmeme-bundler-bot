@@ -12,7 +12,7 @@ It automates transaction batching, protects against MEV (Miner Extractable Value
 -  **BNB & BSC Support** — fully optimized for **Binance Smart Chain** and compatible with all standard RPC endpoints  
 -  **Auto Gas Optimization** — dynamically adjusts gas fees for fastest confirmation  
 -  **Smart Queue Engine** — schedules and bundles transactions for maximum profit and minimum slippage  
--  **Custom Strategies** — plug in your own sniping, liquidity, or arbitrage logic  
+-  **Custom Strategies** — plug in your own sniping, liquidation, or arbitrage logic  
 
 ---
 
