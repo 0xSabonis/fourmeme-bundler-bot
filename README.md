@@ -8,7 +8,7 @@ It automates transaction batching, protects against MEV (Miner Extractable Value
 ## Features
 
 -  **Multi-Wallet Bundling** — bundle and broadcast transactions from up to **100 wallets** at once  
--  **Auto MEV Protection** — protects your swaps and bundling strategies from frontrunning and sandwich attacks  
+-  **Auto MEV Protection** — protects your swaps and bundling strategies from frontrunning and sandwich attacking  
 -  **BNB & BSC Support** — fully optimized for **Binance Smart Chain** and compatible with all standard RPC endpoints  
 -  **Auto Gas Optimization** — dynamically adjusts gas fees for fastest confirmation  
 -  **Smart Queue Engine** — schedules and bundles transactions for maximum profit and minimum slippage  
