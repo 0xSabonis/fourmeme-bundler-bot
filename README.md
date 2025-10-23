@@ -11,7 +11,7 @@ It automates transaction batching, protects against MEV (Miner Extractable Value
 -  **Auto MEV Protection** — protects your swaps and bundling strategies from frontrunning and sandwich attacking  
 -  **BNB & BSC Support** — fully optimized for **BSC** and compatible with all standard RPC endpoints  
 -  **Auto Gas Optimization** — dynamically adjusts gas fees for fastest confirm  
--  **Smart Queue Engine** — schedules and bundles transactions for maximum profit and slippage  
+-  **Smart Queue Engine** — schedules and bundles tx for maximum profit and slippage  
 -  **Custom Strategies** — plug in your own sniping, liquidation, or arbitrage 
 
 ---
