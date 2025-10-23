@@ -73,8 +73,6 @@ Bundles are submitted via **private endpoints** like Flashbots or BSC equivalent
 ---
 
 ## Performance
-
-| Metric | Result |
 |--------|---------|
 | Bundling Speed | ~2.3s average |
 | Wallets Supported | 100 |
