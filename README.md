@@ -63,7 +63,7 @@ BUNDLER_MODE=auto
 
 Four.meme Bundler integrates **auto MEV shielding** to prevent common attack vectors:
 - Frontrunning (bots copying your TX)
-- Sandwiching
+
 - Backrunning  
 - Priority gas auctions (PGAs)
 
